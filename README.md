@@ -10,3 +10,4 @@ Para la Vista se utiliza Swing
 
 Está organizado como un proyecto Gradle e incluye el gradle wrapper, aunque para las prácticas no será obligatorio utilizarlo
 
+Primera subida a github para la practica 2.
